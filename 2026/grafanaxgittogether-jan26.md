@@ -8,3 +8,8 @@
 - GrafanaCon'25 revealed GitSync which ultimately helps in Version Control, Maintainability and Consistency in Code.
 - In GitHub, you can use webhooks for [branch protection](https://docs.github.com/en/webhooks/webhook-events-and-payloads#branch_protection_rule/).
 
+## Defining Meaningful Monitoring | by [Riya Goel](https://www.linkedin.com/in/realgoelriya/)
+
+- Finding painpoints to understand what metrics exacly in needed for dashboards to work.
+- Utilization, Saturation, Errors - USE method should be used for building dashboards and alerts.
+
