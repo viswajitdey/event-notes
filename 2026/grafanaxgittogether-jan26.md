@@ -21,3 +21,8 @@
 - Grafana MCP Server Demo: ``` Get Grafana using Docker > Expose on Port 3000 > Setup Account > Agent mode on VS Code > Use Grafana MCP > Pass Grafana URL and API Key > Prompt ```.
 - Grafana API Key along with other secrets can be managed using Grafana Server on DockerHub.
 - OAuth and RBAC is available for MCPs to scope the capability to maintain compliance and governance in the organization.
+
+## GitHub Copilot CLI SDK Demo by [Vipul Gupta](https://www.linkedin.com/in/vipulgupta2048/)
+
+- [Getting started with GitHub Copilot CLI SDK by Shivay Lamba](https://x.com/HowDevelop/status/2014562837830762503)
+- [Content Curator using GitHub Copilot CLI SDK and Exa AI](https://github.com/shivaylamba/github-copilot-cli-sdk-content-curator)
