@@ -28,9 +28,17 @@
 - GraphRAG is coming into the picture soon; we can see it as the next frontier. It combines structured relationships with unestructured semantic meanings.
 - LLMs + Tools which help in a certain task --> Agentic Search
 
+## AI Progress: Past, Present & Future by [Nazia Naved](https://www.linkedin.com/in/nazia-naved/)
+
+- With time, a lot of things has changed and we have created a lot of dependency on AI. Imaging life without AI Tools is becoming tough as the time passes.
+- In 1956, Dartmouth College emerged as the home to founding fathers of AI with Dartmouth Conference. But, the limitations and lack of expertise in the systems led to "1st AI Winter".
+- In 1980s, the same set of people started working on expert systems which means it'll have more rules and more intelligence. Then happened the crash, the "2nd AI Winter".
+- 1990s emerged as an era of Nueral Networks. They started believing that "Intelligence isn't logical rules. It's pattern recogination built from experience.".
+- In the future, we might reach a threshold where AI doesn't just help us think, it thinks better than us. If it happens, the recursive loop of machines making more intelligent machines will led to intelligent explosion. We as humans must be intelligent enough to survive that.
+
 ## Reading Material (From Internet)
 
-[Semantic Chunking](https://www.multimodal.dev/post/semantic-chunking-for-rag)
-[BM25 Keyword Search](http://docs.opensearch.org/latest/search-plugins/keyword-search/)
-[Rerankers](https://www.mongodb.com/resources/basics/artificial-intelligence/reranking-models)
-[A2A vs MCP](https://www.koyeb.com/blog/a2a-and-mcp-start-of-the-ai-agent-protocol-wars)
+- [Semantic Chunking](https://www.multimodal.dev/post/semantic-chunking-for-rag)
+- [BM25 Keyword Search](http://docs.opensearch.org/latest/search-plugins/keyword-search/)
+- [Rerankers](https://www.mongodb.com/resources/basics/artificial-intelligence/reranking-models)
+- [A2A vs MCP](https://www.koyeb.com/blog/a2a-and-mcp-start-of-the-ai-agent-protocol-wars)
