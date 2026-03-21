@@ -9,11 +9,11 @@
 
 - Filters can be saved and while saving permissions can be given accordingly.
 
-- Security Groups can be created to provide RBAC accesses to users. This can be done by JIRA System Administrators and JIRA Administrators only [More information here](https://confluence.atlassian.com/jirasoftwareserver/administering-jira-software-938845731.html).
+- Security Groups can be created to provide RBAC accesses to users. This can be done by JIRA System Administrators and JIRA Administrators only ([More information here](https://confluence.atlassian.com/jirasoftwareserver/administering-jira-software-938845731.html)).
 
 - Dashboards can be created for visualising the data and the progress which can be useful to the stakeholders and higher management.
 
-## Smart Search in JIRA by [Ashutosh Gupta(https://www.linkedin.com/in/ashutoshgupta-servantleader)
+## Smart Search in JIRA by [Ashutosh Gupta](https://www.linkedin.com/in/ashutoshgupta-servantleader)
 
 - Multi-project filtration can be done using - ```project in (ABC,XYZ)```.
 
