@@ -3,9 +3,7 @@
 
 ## Jira Filter Search by [Manish Luthra](https://www.linkedin.com/in/manish-luthra-0282046b)
 
-- IAM in terms of Jira stands for IPS Atlassian Migration.
-
-- Similar to other technologies we can use filters for filtering the data but JIRA in addition to that provides JQL which is a query language and can be used for filtration.
+- Similar to other technologies we can use the filters for filtering the data but JIRA in addition to that provides JQL which is a query language and can be used for filtration.
 
 - Filters can be saved and while saving permissions can be given accordingly.
 
